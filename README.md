@@ -12,8 +12,9 @@ You can still explore the code and run it locally.
 [![Live Demo](assets/demo_preview.png)](https://genstudio-ai.web.app/)
 
 
-🎯 Goal
-To explore end to end development for computer vision applications, including model development, backend integration, and frontend interaction.
+## 🎯 Goal
+
+To explore end-to-end development for computer vision applications, including model development, backend integration, and frontend interaction.
 
 ---
 
