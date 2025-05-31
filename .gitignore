@@ -1,0 +1,11 @@
+# Ignore model files and generated outputs
+models/
+backend/app/generated_outputs_keep_demonstration/
+*.pyc
+__pycache__/
+.env
+.DS_Store
+.firebase/
+
+# VSCode settings (optional)
+.vscode/

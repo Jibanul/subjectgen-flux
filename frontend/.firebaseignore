@@ -1,0 +1,8 @@
+node_modules
+firebase-debug.log
+.git
+.gitignore
+README.md
+vite.config.js
+package.json
+package-lock.json
