@@ -1,7 +1,19 @@
 # subjectgen-flux
 
-subjectgen-flux is a full-stack project for generating subject-specific images using FLUX, LoRA, Dino and IR model.
-It consists of a FastAPI backend for model inference and image generation, and a modern frontend (using Vite + React + Tailwind) for user interaction.
+This is a full-stack project for generating subject-specific images using FLUX, LoRA, DINO, and an IR model. It features a FastAPI backend for model inference and image generation, along with a modern frontend built with Vite, React, and Tailwind CSS for user interaction.
+
+## 🌐 Live Preview
+
+**Note:** The demo is currently offline (GPU temporarily unavailable).  
+You can still explore the code and run it locally.
+
+🔗 [genstudio-ai.web.app](https://genstudio-ai.web.app/)
+
+[![Live Demo](assets/demo_preview.png)](https://genstudio-ai.web.app/)
+
+
+🎯 Goal
+To explore end to end development for computer vision applications, including model development, backend integration, and frontend interaction.
 
 ---
 
@@ -120,6 +132,6 @@ The app will be available at [http://localhost:5173](http://localhost:5173) (def
 
 ---
 
-## License
+## Reference
 
-See [LICENSE](LICENSE) for details.
+[https://github.com/siso-paper/SISO](https://github.com/siso-paper/SISO)
